@@ -1,0 +1,18 @@
+# Generated applications, private canvas data and local configuration
+/发布/
+/output/
+**/数据/
+**/ai-connection.json
+**/settings.json
+**/ai-launch.lock
+**/mcp-config.json
+**/mcp-config.toml
+*.canvas
+*.canvas.bak
+*.exe.bak
+*.tmp
+tests/*.exe
+tests/test-data/
+tests/ai-*/
+tests/baseline-*/
+tests/package-check-*/
